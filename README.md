@@ -2,8 +2,8 @@
 [![license](https://img.shields.io/github/license/Gilberto-Mascena/dslist)](https://github.com/Gilberto-Mascena/spring-boot-mongodb?tab=MIT-1-ov-file)
 [![GitHub stars](https://img.shields.io/github/stars/Gilberto-Mascena/spring-boot-mongodb)](https://github.com/Gilberto-Mascena/spring-boot-mongodb/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/Gilberto-Mascena/dslist)](https://github.com/Gilberto-Mascena/spring-boot-mongodb/issues)
-![tag](https://img.shields.io/github/v/release/Gilberto-Mascena/spring-boot-mongodb?include_prereleases)
-![release](https://img.shields.io/github/release-date/Gilberto-Mascena/spring-boot-mongodbt)
+<!--![tag](https://img.shields.io/github/v/release/Gilberto-Mascena/spring-boot-mongodb?include_prereleases)
+![release](https://img.shields.io/github/release-date/Gilberto-Mascena/spring-boot-mongodbt)-->
 ![size](https://img.shields.io/github/repo-size/Gilberto-Mascena/spring-boot-mongodb)
 
 ## *Aplicaçao BackEnd*
